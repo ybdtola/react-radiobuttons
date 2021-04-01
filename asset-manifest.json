@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-radiobuttons/static/css/main.190f9979.chunk.css",
+    "main.js": "/react-radiobuttons/static/js/main.9a1009a7.chunk.js",
+    "main.js.map": "/react-radiobuttons/static/js/main.9a1009a7.chunk.js.map",
+    "runtime-main.js": "/react-radiobuttons/static/js/runtime-main.dbaf20d6.js",
+    "runtime-main.js.map": "/react-radiobuttons/static/js/runtime-main.dbaf20d6.js.map",
+    "static/js/2.09f0d74f.chunk.js": "/react-radiobuttons/static/js/2.09f0d74f.chunk.js",
+    "static/js/2.09f0d74f.chunk.js.map": "/react-radiobuttons/static/js/2.09f0d74f.chunk.js.map",
+    "index.html": "/react-radiobuttons/index.html",
+    "static/css/main.190f9979.chunk.css.map": "/react-radiobuttons/static/css/main.190f9979.chunk.css.map",
+    "static/js/2.09f0d74f.chunk.js.LICENSE.txt": "/react-radiobuttons/static/js/2.09f0d74f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbaf20d6.js",
+    "static/js/2.09f0d74f.chunk.js",
+    "static/css/main.190f9979.chunk.css",
+    "static/js/main.9a1009a7.chunk.js"
+  ]
+}
